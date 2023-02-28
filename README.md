@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **mishal-aslam/mishal-aslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mishal Aslam</h1>
+<h1 align="center">Hi , I'm Mishal Aslam</h1>
 <h3 align="center">I am passoinate learner</h3>
 
 <img align="right" alt="cooding" width="400" src="https://images.squarespace-cdn.com/content/v1/535e680de4b0eea56c05a375/1418382653098-R129I5GTW1WXSQYCCATJ/linn.fritz.gif">
