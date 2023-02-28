@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/torch_017" target="blank"><img src="https://img.shields.io/twitter/follow/torch_017?logo=twitter&style=for-the-badge" alt="torch_017" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Typescript,figma**
+- 🌱 I’m currently learning **Javascript,Typescript,figma,Tailwind CSS,Next13 JS,**
 
 - 📫 How to reach me **mishalaslam17@gmail.com**
 
-- ⚡ Fun fact **I think i am lazy hardworking person**
+- ⚡ Fun fact **I think I am Lazy Hardworking Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
