@@ -1,4 +1,4 @@
-### Hi there 
+### HELLO!!
 
 <!--
 **mishal-aslam/mishal-aslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/torch_017" target="blank"><img src="https://img.shields.io/twitter/follow/torch_017?logo=twitter&style=for-the-badge" alt="torch_017" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Typescript,figma,Tailwind CSS,Next13 JS,**
+- 🌱 I’m currently learning **Javascript,Typescript,figma,Tailwind CSS,Next-JS 13,React,Sanity,Drizzle,Chakra UI **
 
 - 📫 How to reach me **mishalaslam17@gmail.com**
 
