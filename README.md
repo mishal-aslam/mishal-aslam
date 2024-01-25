@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="mishal-aslam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishal-aslam" alt="mishal-aslam" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript , Javascript , Framer Motion ,Html , Css , Bootstrap**
 
 - 📫 How to reach me **mishalaslam17@gmail.com**
