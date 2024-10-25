@@ -12,8 +12,6 @@
 <div style="margin-top: 20px;">
   <h1 style="font-size: 2.5vw; font-weight: bold;">Expertise:</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    
-    <!-- Front-End Development -->
     <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <h3 style="font-size: 1.5vw; font-weight: bold;">Front-End Development:</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
@@ -25,18 +23,15 @@
         <li>Material UI</li>
       </ul>
     </div>
-    
-    <!-- JavaScript Frameworks -->
     <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <h3 style="font-size: 1.5vw; font-weight: bold;">JavaScript Frameworks:</h3>
+       <h3 style="font-size: 1.5vw; font-weight: bold;">JavaScript Frameworks:</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li>React.js</li>
         <li>Next.js</li>
       </ul>
     </div>
     
-    <!-- Responsive Design -->
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+   <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <h3 style="font-size: 1.5vw; font-weight: bold;">Responsive Design:</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li>Cross-browser compatibility</li>
@@ -44,8 +39,7 @@
       </ul>
     </div>
     
-    <!-- Performance Optimization -->
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+   <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <h3 style="font-size: 1.5vw; font-weight: bold;">Performance Optimization:</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li>Code splitting</li>
@@ -54,8 +48,7 @@
       </ul>
     </div>
     
-    <!-- Backend Technologies -->
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+   <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <h3 style="font-size: 1.5vw; font-weight: bold;">Backend Technologies:</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li>Node.js</li>
@@ -64,7 +57,6 @@
       </ul>
     </div>
     
-  <!-- Version Control & Collaboration -->
 <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <h3 style="font-size: 1.5vw; font-weight: bold;">Version Control & Collaboration:</h3>
   <ul style="list-style: none; padding: 0; margin: 0;">
