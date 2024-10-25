@@ -1,7 +1,8 @@
 <!-- Profile Header -->
+<!-- Profile Header -->
 <div align="center">
-  <h1 style="font-size: 3.5vw; font-weight: bold;">Hi 👋, I'm Mishal Aslam</h1>
-  <h3 style="font-size: 2vw; color: #666;">Full-Stack Developer & Passionate Builder of Scalable Web Applications from Karachi, Pakistan.</h3>
+  <h1 style="font-size: 3.5vw; font-weight: bold; animation: fade-in 2s;">Hi 👋, I'm Mishal Aslam</h1>
+  <h3 style="font-size: 2vw; color: #666; animation: fade-in 2.5s;">Full-Stack Developer & Passionate Builder of Scalable Web Applications from Karachi, Pakistan.</h3>
 </div>
 
 <p align="left">
@@ -9,78 +10,88 @@
 </p>
 
 <!-- Expertise Section -->
-<div style="margin-top: 20px;">
-  <h1 style="font-size: 2.5vw; font-weight: bold;">Expertise:</h1>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <h3 style="font-size: 1.5vw; font-weight: bold;">Front-End Development:</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>Tailwind CSS</li>
-        <li>Bootstrap</li>
-        <li>Shader.js</li>
-        <li>Material UI</li>
-      </ul>
-    </div>
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-       <h3 style="font-size: 1.5vw; font-weight: bold;">JavaScript Frameworks:</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>React.js</li>
-        <li>Next.js</li>
-      </ul>
-    </div>
-    
-   <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <h3 style="font-size: 1.5vw; font-weight: bold;">Responsive Design:</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>Cross-browser compatibility</li>
-        <li>Mobile-first design</li>
-      </ul>
-    </div>
-    
-   <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <h3 style="font-size: 1.5vw; font-weight: bold;">Performance Optimization:</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>Code splitting</li>
-        <li>Lazy loading</li>
-        <li>Framer Motion</li>
-      </ul>
-    </div>
-    
-   <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <h3 style="font-size: 1.5vw; font-weight: bold;">Backend Technologies:</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>Node.js</li>
-        <li>Express.js</li>
-        <li>MongoDB</li>
-      </ul>
-    </div>
-    
-<div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <h3 style="font-size: 1.5vw; font-weight: bold;">Version Control & Collaboration:</h3>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>Git</li>
-    <li>GitHub</li>
-  </ul>
-</div>
-
-<!-- API Integration -->
-<div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <h3 style="font-size: 1.5vw; font-weight: bold;">API Integration:</h3>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>RESTful APIs</li>
-    <li>API design</li>
-    <li>Integration with external services</li>
-  </ul>
+<div style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <h1 style="font-size: 2.5vw; font-weight: bold; animation: fade-in 2s; margin-bottom: 20px;">Expertise:</h1>
+  
+  <!-- Front-End Development -->
+  <div class="expertise-card" style="background-color: #ffecd9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #007bff;">Front-End Development:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>Tailwind CSS</li>
+      <li>Bootstrap</li>
+      <li>Shader.js</li>
+      <li>Material UI</li>
+    </ul>
+  </div>
+  
+  <!-- JavaScript Frameworks -->
+  <div class="expertise-card" style="background-color: #c6f4d6; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #2ecc71;">JavaScript Frameworks:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>React.js</li>
+      <li>Next.js</li>
+    </ul>
+  </div>
+  
+  <!-- Responsive Design -->
+  <div class="expertise-card" style="background-color: #f7d2c4; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #ff9800;">Responsive Design:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>Cross-browser compatibility</li>
+      <li>Mobile-first design</li>
+    </ul>
+  </div>
+  
+  <!-- Performance Optimization -->
+  <div class="expertise-card" style="background-color: #c5cae9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #2196f3;">Performance Optimization:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>Code splitting</li>
+      <li>Lazy loading</li>
+      <li>Framer Motion</li>
+    </ul>
+  </div>
+  
+   <!-- Backend Technologies -->
+  <div class="expertise-card" style="background-color: #f1c0e8; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #9c27b0;">Backend Technologies:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>MongoDB</li>
+    </ul>
+  </div>
+  
+  <!-- Version Control & Collaboration -->
+  <div class="expertise-card" style="background-color: #bfd3e6; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #03a9f4;">Version Control & Collaboration:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>Git</li>
+      <li>GitHub</li>
+    </ul>
+  </div>
+  
+  <!-- API Integration -->
+  <div class="expertise-card" style="background-color: #ffe0b2; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+    <h3 style="font-size: 1.5vw; font-weight: bold; color: #ff9800;">API Integration:</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>RESTful APIs</li>
+      <li>API design</li>
+      <li>Integration with external services</li>
+    </ul>
+  </div>
 </div>
 
 <!-- Contact Information -->
-<div style="margin-top: 20px; text-align: center;">
-  <h2 style="font-size: 2vw; font-weight: bold;">📫 Get in Touch:</h2>
-  <p style="font-size: 1.5vw;">mishalaslam17@gmail.com</p>
+<div style="margin-top: 40px; text-align: center;">
+  <h2 style="font-size: 2vw; font-weight: bold; animation: fade-in 2s;"> Get in Touch:</h2>
+  <p style="font-size: 1.5vw; margin-bottom: 20px;">mishalaslam17@gmail.com</p>
+  <a href="mailto:mishalaslam17@gmail.com" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Email Me</a>
 </div>
 
+      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mishal-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishal-aslam" height="30" width="40" /></a>
