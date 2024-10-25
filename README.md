@@ -1,31 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mishal Aslam</h1>
-<h3 align="center">Full-Stack Developer & Passionate Builder of Scalable Web Applications from Karachi, Pakistan.</h3>
+<!-- Profile Header -->
+<div align="center">
+  <h1 style="font-size: 3.5vw; font-weight: bold;">Hi 👋, I'm Mishal Aslam</h1>
+  <h3 style="font-size: 2vw; color: #666;">Full-Stack Developer & Passionate Builder of Scalable Web Applications from Karachi, Pakistan.</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="mishal-aslam" /> </p>
-<br/>
-<h1>Expertise:</h1>
-- <h3>Front-End Development:</h3>
-HTML5, CSS3, Tailwind CSS, Bootstrap, Shader.js, Material UI**
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mishal-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="mishal-aslam" />
+</p>
 
-- <h3>JavaScript Frameworks:</h3>
-React.js, Next.js**
-
-- <h3>Responsive Design:</h3>
-Cross-browser compatibility, Mobile-first design**
-
-- <h3>Performance Optimization:</h3>
-Code splitting, Lazy loading, Framer Motion**
-
-- <h3>Backend Technologies:</h3>
-Node.js, Express.js, MongoDB**
-
-- <h3>Version Control & Collaboration:</h3>
-Git, GitHub**
-
-- <h3>API Integration:</h3>
-RESTful APIs, API design, Integration with external services**
-
-- <h2>📫 How to reach me **mishalaslam17@gmail.com**</h2>
+<!-- Expertise Section -->
+<div style="margin-top: 20px;">
+  <h1 style="font-size: 2.5vw; font-weight: bold;">Expertise:</h1>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    
+    <!-- Front-End Development -->
+    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="font-size: 1.5vw; font-weight: bold;">Front-End Development:</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Tailwind CSS</li>
+        <li>Bootstrap</li>
+        <li>Shader.js</li>
+        <li>Material UI</li>
+      </ul>
+    </div>
+    
+    <!-- JavaScript Frameworks -->
+    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="font-size: 1.5vw; font-weight: bold;">JavaScript Frameworks:</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>React.js</li>
+        <li>Next.js</li>
+      </ul>
+    </div>
+    
+    <!-- Responsive Design -->
+    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="font-size: 1.5vw; font-weight: bold;">Responsive Design:</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>Cross-browser compatibility</li>
+        <li>Mobile-first design</li>
+      </ul>
+    </div>
+    
+    <!-- Performance Optimization -->
+    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="font-size: 1.5vw; font-weight: bold;">Performance Optimization:</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>Code splitting</li>
+        <li>Lazy loading</li>
+        <li>Framer Motion</li>
+      </ul>
+    </div>
+    
+    <!-- Backend Technologies -->
+    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="font-size: 1.5vw; font-weight: bold;">Backend Technologies:</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>MongoDB</li>
+      </ul>
+    </div>
+    
+    <!-- Version Control & Collaboration -->
+    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
