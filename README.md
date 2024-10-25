@@ -14,7 +14,7 @@
   <h1 style="font-size: 2.5vw; font-weight: bold; animation: fade-in 2s; margin-bottom: 20px;">Expertise:</h1>
   
   <!-- Front-End Development -->
-  <div class="expertise-card" style="background-color: #ffecd9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
+  <div class="expertise-card" style="background-color: green; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 20px; width: 250px;">
     <h3 style="font-size: 1.5vw; font-weight: bold; color: #007bff;">Front-End Development:</h3>
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>HTML5</li>
