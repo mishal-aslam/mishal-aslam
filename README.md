@@ -1,11 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mishal Aslam</h1>
-<h3 align="center">A passionate frontend developer from Karachi, Pakistan.</h3>
+<h3 align="center">Full-Stack Developer & Passionate Builder of Scalable Web Applications from Karachi, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="mishal-aslam" /> </p>
+<br/>
+<h1>Expertise:</h1>
+- <h3>Front-End Development:</h3>
+HTML5, CSS3, Tailwind CSS, Bootstrap, Shader.js, Material UI**
 
-- 🌱 I’m currently learning **Typescript , Javascript , Framer Motion ,Html , Css , Bootstrap**
+- <h3>JavaScript Frameworks:</h3>
+React.js, Next.js**
 
-- 📫 How to reach me **mishalaslam17@gmail.com**
+- <h3>Responsive Design:</h3>
+Cross-browser compatibility, Mobile-first design**
+
+- <h3>Performance Optimization:</h3>
+Code splitting, Lazy loading, Framer Motion**
+
+- <h3>Backend Technologies:</h3>
+Node.js, Express.js, MongoDB**
+
+- <h3>Version Control & Collaboration:</h3>
+Git, GitHub**
+
+- <h3>API Integration:</h3>
+RESTful APIs, API design, Integration with external services**
+
+- <h2>📫 How to reach me **mishalaslam17@gmail.com**</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
